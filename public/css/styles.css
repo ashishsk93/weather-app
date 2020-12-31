@@ -37,6 +37,14 @@ header a {
     width: 250px;
 }
 
+.fore {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
 .main-content {
     flex-grow: 1;
 }
